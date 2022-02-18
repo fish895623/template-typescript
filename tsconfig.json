@@ -1,0 +1,10 @@
+{
+  "exclude": [
+    "tests/**/*.ts"
+  ],
+  "compilerOptions": {
+    "types": [
+      "@types/jest"
+    ]
+  }
+}
